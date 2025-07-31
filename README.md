@@ -42,21 +42,23 @@ Sou apaixonado por tecnologia e estou em constante evolução como profissional 
 
 ### 📊 Estatísticas GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=wellitonmachado&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 📊 Estatísticas GitHub
 
-  <img 
-    align="left" 
-    alt="GitHub Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellitonmachado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3&hide=typescript,python,php" 
-  />
+<p align="center">
+  <a href="https://github.com/wellitonmachado">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=wellitonmachado&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" 
+      alt="Estatísticas de Welliton Machado"
+    />
+  </a>
+  <a href="https://github.com/wellitonmachado">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellitonmachado&layout=compact&langs_count=6&theme=tokyonight" 
+      alt="Linguagens mais usadas"
+    />
+  </a>
 </p>
 
 <br/>
